@@ -64,12 +64,17 @@ The deployed Flask application can be accessed at [myFlaskApptak.azurewebsites.n
     ```
 
     Command to initiate the deployment of the Flask application to the Azure Web App.
+   
+## Conclusion
 
-## Access Deployed Application:
+Congratulations! You've explored the Triluxo Technologies Private Limited - Task repository showcasing a simple Flask application deployed on Azure Web Apps. 
 
-The deployed Flask application can be accessed at [myFlaskApptak.azurewebsites.net](https://myFlaskApptak.azurewebsites.net).
+## Contact Information
 
-### Author:
+If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
-- Author: [Your Name]
-- Contact: [Your Contact Information]
+- **Author:** [Chinmay Gajul]
+- **Email:** chinmaygajul11@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](linkedin.com/in/chinmaygajul)
+
+Thank you for visiting!
