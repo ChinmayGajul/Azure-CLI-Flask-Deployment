@@ -11,7 +11,7 @@ The Flask application in this repository consists of a single endpoint that retu
 The deployed Flask application can be accessed at [myFlaskApptak.azurewebsites.net](https://myFlaskApptak.azurewebsites.net).
 ## Task Showcase
 
-![Custom-vsdcvid](img.png)
+![Screenshot](img1.png)
 
 ## Deployment Process:
 
