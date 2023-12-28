@@ -6,6 +6,13 @@ This repository contains a simple Flask application deployed to Azure Web Apps a
 
 The Flask application in this repository consists of a single endpoint that returns "Hello, Azure Web Apps!" when accessed. It's a basic demonstration of deploying a Flask application to Azure Web Apps.
 
+## Access Deployed Application:
+
+The deployed Flask application can be accessed at [myFlaskApptak.azurewebsites.net](https://myFlaskApptak.azurewebsites.net).
+## Task Showcase
+
+![Custom-vsdcvid](img.png)
+
 ## Deployment Process:
 
 ### Azure CLI Commands Used:
@@ -61,11 +68,6 @@ The Flask application in this repository consists of a single endpoint that retu
 ## Access Deployed Application:
 
 The deployed Flask application can be accessed at [myFlaskApptak.azurewebsites.net](https://myFlaskApptak.azurewebsites.net).
-
-## Additional Notes:
-
-- Ensure proper configurations and environment variables are set for Azure deployment.
-- Feel free to modify the Flask application and expand its functionality as needed.
 
 ### Author:
 
