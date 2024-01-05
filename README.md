@@ -52,7 +52,7 @@ The deployed Flask application can be accessed at [myFlaskApptak.azurewebsites.n
 5. **Configure Deployment Source:**
 
     ```bash
-    az webapp deployment source config --name myFlaskApptak --resource-group Triluxo-Task --repo-url https://github.com/ChinmayGajul/Triluxo-Technologies-Private-Limited---Task.git --branch main --manual-integration
+    az webapp deployment source config --name myFlaskApptak --resource-group Triluxo-Task --repo-url https://github.com/ChinmayGajul/Azure-CLI-Flask-Deployment.git --branch main --manual-integration
     ```
 
     Command to configure deployment from the specified GitHub repository and branch for continuous deployment.
