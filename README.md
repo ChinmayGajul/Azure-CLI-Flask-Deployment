@@ -1,4 +1,4 @@
-#Azure-CLI-Flask-Deployment
+# Azure-CLI-Flask-Deployment
 
 This repository contains a simple Flask application deployed to Azure Web Apps.
 
