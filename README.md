@@ -1,14 +1,11 @@
 # Azure-CLI-Flask-Deployment
 
-This repository contains a simple Flask application deployed to Azure Web Apps.
+This project exemplifies deploying a basic Flask/FastAPI app on Azure Web Apps, including setup, configuration, and successful deployment, highlighting the process of hosting and configuring an application within the Azure environment.
 
 ## Application Description:
 
 The Flask application in this repository consists of a single endpoint that returns "Hello, Azure Web Apps!" when accessed. It's a basic demonstration of deploying a Flask application to Azure Web Apps.
 
-## Access Deployed Application:
-
-The deployed Flask application can be accessed at [myFlaskApptak.azurewebsites.net](https://myFlaskApptak.azurewebsites.net).
 ## Task Showcase
 
 ![Screenshot](img1.png)
